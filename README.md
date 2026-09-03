@@ -8,10 +8,10 @@
  
 AI & Full Stack Developer with 8+ years of experience building scalable web applications, SaaS platforms, and AI-driven solutions — from modern frontend interfaces to backend architectures, cloud systems, and LLM-powered products.
  
-- 🔭 Currently a **Senior AI Full Stack Developer (Remote)** at **NovaAI Technologies**, Bucharest, Romania
+- 🔭 Currently a **Senior AI Full Stack Developer (Remote)** at **NovaAI Technologies**, Dubai, UAE
 - 🧠 Focused on LLM applications, RAG systems, and computer vision
 - 🌱 Building automation workflows and AI-driven business tools
-- 📍 Based in Bucharest, Romania
+- 📍 Based in Dubai, UAE
 ---
  
 ## 📫 Contact Me
