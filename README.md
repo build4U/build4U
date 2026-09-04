@@ -184,16 +184,10 @@ Orion Logic   Developer     Engineer      Full Stack    Consultant   New Role
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8"/>
-
-</div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=build4U&theme=radical&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
 
 </div>
 
