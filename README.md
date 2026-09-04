@@ -1,12 +1,8 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mustafa%20Alawad&fontSize=60&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Senior%20AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descColor=a8b2d8&descSize=20" />
-
-</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Building+Enterprise+AI+%26+SaaS+Platforms+%F0%9F%A4%96;LangGraph+%7C+PyTorch+%7C+RAG+Systems+%7C+Multi-Agent+AI;FastAPI+%7C+Node.js+%7C+Go+%7C+React+%7C+Next.js;AWS+%7C+Kubernetes+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=E94560&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Enterprise+AI+%26+SaaS+Platforms+%F0%9F%A4%96;LangGraph+%7C+PyTorch+%7C+RAG+Systems+%7C+Multi-Agent+AI;FastAPI+%7C+Node.js+%7C+Go+%7C+React+%7C+Next.js;AWS+%7C+Kubernetes+%7C+Docker+%7C+CI%2FCD)](https://git.io/typing-svg)
 
 </div>
 
