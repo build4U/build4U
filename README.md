@@ -222,8 +222,8 @@ Orion Logic   Developer     Engineer      Full Stack    Consultant   New Role
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=e94560&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=build4U&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/build4U?style=for-the-badge&color=e94560&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
@@ -235,7 +235,7 @@ Orion Logic   Developer     Engineer      Full Stack    Consultant   New Role
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profee233@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-e94560?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-e94560?style=for-the-badge&logo=firefox&logoColor=white)](https://mustafa-ai-arch.base44.app/)
 
 <br/>
 
